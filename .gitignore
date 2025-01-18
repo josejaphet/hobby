@@ -7,3 +7,5 @@
 /chat-app/server/dotnet/ChatApp/Domain/obj
 /chat-app/server/dotnet/ChatApp/Application/bin/Debug/net9.0
 /chat-app/server/dotnet/ChatApp/Application/obj
+/chat-app/server/dotnet/ChatApp/Infrastructure/bin/Debug/net9.0
+/chat-app/server/dotnet/ChatApp/Infrastructure/obj
